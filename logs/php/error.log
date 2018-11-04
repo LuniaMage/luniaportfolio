@@ -1,0 +1,6 @@
+[23-Oct-2018 22:25:48 UTC] PHP Warning:  Use of undefined constant the_title - assumed 'the_title' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/lunia-portfolio/index.php on line 9
+[23-Oct-2018 22:25:48 UTC] PHP Warning:  Use of undefined constant the_content - assumed 'the_content' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/lunia-portfolio/index.php on line 10
+[23-Oct-2018 22:25:48 UTC] PHP Warning:  Use of undefined constant the_title - assumed 'the_title' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/lunia-portfolio/index.php on line 9
+[23-Oct-2018 22:25:48 UTC] PHP Warning:  Use of undefined constant the_content - assumed 'the_content' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/lunia-portfolio/index.php on line 10
+[23-Oct-2018 22:25:49 UTC] PHP Warning:  Use of undefined constant the_title - assumed 'the_title' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/lunia-portfolio/index.php on line 9
+[23-Oct-2018 22:25:49 UTC] PHP Warning:  Use of undefined constant the_content - assumed 'the_content' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/lunia-portfolio/index.php on line 10
